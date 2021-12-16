@@ -58,9 +58,11 @@
 
 ## 📊 Github stats
 <br>
-<a href="https://github.com/anuraghazra/github-readme-stats"><img alt="DenverCoder1's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kr3b5&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=FFFFFF&icon_color=F8D866&hide=Jupyter%20Notebook" height="192px"/></a>
+<a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Kev's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Kr3b5&show_icons=true&theme=react&hide_border=true&bg_color=1F222E&icon_color=F8D866&count_private=true" height="192px"/></a>
+<a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Kev's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kr3b5&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=1F222E&icon_color=F8D866&hide=Jupyter%20Notebook" height="192px"/></a>
 <br/>
-<a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="DenverCoder1's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=Kr3b5&bg_color=1F222E&color=FFFFFF&line=009933&point=FFFFFF&hide_border=true" /></a>
+
+<a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="Kev's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=Kr3b5&theme=react-dark&bg_color=1F222E&hide_border=true&hide_title=true" /></a>
 
 </br></br></br></br>
 <p align="center">
