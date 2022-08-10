@@ -41,6 +41,7 @@
     <a href="#"><img alt="NumPy" src="https://img.shields.io/badge/Numpy-013243.svg?logo=numpy&logoColor=white"></a>
     <a href="#"><img alt="Pandas" src="https://img.shields.io/badge/Pandas-150458.svg?logo=pandas&logoColor=white"></a>
     <a href="#"><img alt="Spring" src="https://img.shields.io/badge/-Spring-4ea94b?logo=Spring&logoColor=white"></a>
+    <a href="#"><img alt="Unity" src="https://img.shields.io/badge/-Unity-FFFFFF?logo=Unity&logoColor=black"></a>
 </p>
 
 ### 🗄️ Databases and cloud hosting
@@ -54,10 +55,14 @@
 ### 💻 Software and tools
 <p>
     <a href="#"><img alt="Android Studio" src="https://img.shields.io/badge/Android%20Studio-008678.svg?logo=android-studio&logoColor=white"></a>
+    <a href="#"><img alt="Git" src="https://img.shields.io/badge/Git-F05033.svg?logo=git&logoColor=white"></a>
     <a href="#"><img alt="IntelliJ" src="https://img.shields.io/badge/-IntelliJ-blue?logo=intellijidea&logoColor=white"></a>
     <a href="#"><img alt="Jupyter" src="https://img.shields.io/badge/Jupyter-F37626.svg?logo=Jupyter&logoColor=white"></a>
     <a href="#"><img alt="Postman" src="https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white"></a>
+    <a href="#"><img alt="SonarLint" src="https://img.shields.io/badge/-SonarLint-CB2029?logo=sonarlint&logoColor=white"></a>
+    <a href="#"><img alt="Visual Studio" src="https://img.shields.io/badge/Visual%20Studio-1c1d1e.svg?logo=visual-studio&logoColor=blueviolet"></a>
     <a href="#"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?logo=visual-studio-code&logoColor=white"></a>
+
 </p>
 
 <br/><br/>
