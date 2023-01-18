@@ -17,11 +17,13 @@
 
 ### 👨‍💻 Programming languages
 <p>
+    <a href="https://github.com/search?q=user%3ADenverCoder1+language%3Ac"><img alt="C" src="https://custom-icon-badges.herokuapp.com/badge/C-03599C.svg?logo=c-in-hexagon&logoColor=white"></a>
+    <a href="https://github.com/search?q=user%3ADenverCoder1+language%3Acpp"><img alt="C++" src="https://custom-icon-badges.herokuapp.com/badge/C++-9C033A.svg?logo=cpp2&logoColor=white"></a>
     <a href="https://github.com/search?q=user%3AKr3b5+language%3Acsharp"><img alt="C#" src="https://custom-icon-badges.herokuapp.com/badge/C%23-68217A.svg?logo=cs2&logoColor=white"></a>
     <a href="https://github.com/search?q=user%3AKr3b5+language%3Adart"><img alt="Dart" src="https://img.shields.io/badge/Dart-15A6C4.svg?logo=dart&logoColor=white"></a>
     <a href="https://github.com/search?q=user%3AKr3b5+language%3Ajava"><img alt="Java" src="https://img.shields.io/badge/Java-007396.svg?logo=java&logoColor=white"></a>
     <a href="https://github.com/search?q=user%3AKr3b5+language%3Ajavascript"><img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E.svg?logo=javascript&logoColor=black"></a>
-    <a href="https://github.com/search?q=user%3AKr3b5+language%3Akotlin"><img alt="Kotlin" src="https://img.shields.io/badge/Kotlin-A332F0.svg?logo=Kotlin&logoColor=white"></a>
+    <a href="https://github.com/search?q=user%3AKr3b5+language%3Akotlin"><img alt="Kotlin" src="https://img.shields.io/badge/Kotlin-9512ed.svg?logo=Kotlin&logoColor=white"></a>
     <a href="https://github.com/search?q=user%3AKr3b5+language%3Apython"><img alt="Python" src="https://img.shields.io/badge/Python-14354C.svg?logo=python&logoColor=white"></a>
 </p>
 
@@ -70,8 +72,8 @@
 
 ## 📊 Github stats
 <br>
-<a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Kev's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Kr3b5&show_icons=true&theme=react&hide_border=true&bg_color=1F222E&icon_color=F8D866&count_private=true" height="192px"/></a>
-<a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Kev's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kr3b5&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=1F222E&icon_color=F8D866&hide=Jupyter%20Notebook" height="192px"/></a>
+<a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Kev's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Kr3b5&show_icons=true&theme=react&hide_border=true&bg_color=1F222E&icon_color=F8D866&count_private=true&cache_seconds=86400" height="192px"/></a>
+<a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Kev's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kr3b5&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=1F222E&icon_color=F8D866&hide=Jupyter%20Notebooks&cache_seconds=86400" height="192px"/></a>
 <br/>
 
 <!--
