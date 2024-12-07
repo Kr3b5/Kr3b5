@@ -17,55 +17,68 @@
 
 ### 👨‍💻 Programming languages
 <p>
-    <a href="https://github.com/search?q=user%3AKr3b5+language%3Ac"><img alt="C" src="https://custom-icon-badges.herokuapp.com/badge/C-03599C.svg?logo=c-in-hexagon&logoColor=white"></a>
-    <a href="https://github.com/search?q=user%3AKr3b5+language%3Acpp"><img alt="C++" src="https://custom-icon-badges.herokuapp.com/badge/C++-9C033A.svg?logo=cpp2&logoColor=white"></a>
-    <a href="https://github.com/search?q=user%3AKr3b5+language%3Acsharp"><img alt="C#" src="https://custom-icon-badges.herokuapp.com/badge/C%23-68217A.svg?logo=cs2&logoColor=white"></a>
-    <a href="https://github.com/search?q=user%3AKr3b5+language%3Adart"><img alt="Dart" src="https://img.shields.io/badge/Dart-15A6C4.svg?logo=dart&logoColor=bl"></a>
-    <a href="https://github.com/search?q=user%3ADKr3b5+language%3Ac"><img alt="Haskell" src="https://custom-icon-badges.herokuapp.com/badge/Haskell-8f4e8b.svg?logo=haskell&logoColor=white"></a>
-    <a href="https://github.com/search?q=user%3AKr3b5+language%3Ajava"><img alt="Java" src="https://img.shields.io/badge/Java-007396.svg?logo=oracle&logoColor=white"></a>
-    <a href="https://github.com/search?q=user%3AKr3b5+language%3Ajavascript"><img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E.svg?logo=javascript&logoColor=black"></a>
-    <a href="https://github.com/search?q=user%3AKr3b5+language%3Akotlin"><img alt="Kotlin" src="https://img.shields.io/badge/Kotlin-9512ed.svg?logo=Kotlin&logoColor=white"></a>
-    <a href="https://github.com/search?q=user%3AKr3b5+language%3Apython"><img alt="Python" src="https://img.shields.io/badge/Python-14354C.svg?logo=python&logoColor=white"></a>
+    <img alt="C++" src="https://custom-icon-badges.herokuapp.com/badge/C++-9C033A.svg?logo=cpp2&logoColor=white">
+    <img alt="C#" src="https://custom-icon-badges.herokuapp.com/badge/C%23-68217A.svg?logo=cs2&logoColor=white">
+    <img alt="Dart" src="https://img.shields.io/badge/Dart-15A6C4.svg?logo=dart&logoColor=bl">
+    <img alt="Go" src="https://img.shields.io/badge/GoLang-00ABD7.svg?logo=go&logoColor=white">
+    <img alt="Java" src="https://img.shields.io/badge/Java-007396.svg?logo=oracle&logoColor=white">
+    <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E.svg?logo=javascript&logoColor=black">
+    <img alt="Python" src="https://img.shields.io/badge/Python-14354C.svg?logo=python&logoColor=white">
+    <img alt="Rust" src="https://img.shields.io/badge/Rust-DD3916.svg?logo=rust&logoColor=white">
 </p>
 
 ### 📄 Markup languages
 <p>
-    <a href="https://github.com/search?q=user%3AKr3b5+language%3Ahtml"><img alt="HTML" src="https://img.shields.io/badge/HTML-E34F26.svg?logo=html5&logoColor=white"></a>
-    <a href="https://github.com/search?q=user%3AKr3b5+language%3Amarkdown"><img alt="Markdown" src="https://img.shields.io/badge/Markdown-000000.svg?logo=markdown&logoColor=white"></a>
+    <img alt="HTML" src="https://img.shields.io/badge/HTML-E34F26.svg?logo=html5&logoColor=white">
+    <img alt="Markdown" src="https://img.shields.io/badge/Markdown-000000.svg?logo=markdown&logoColor=white">
 </p>
 
 
 ### 🧰 Frameworks and libraries
 <p>
-    <a href="#"><img alt="Arduino" src="https://img.shields.io/badge/-Arduino-00979D?logo=Arduino&logoColor=white"></a>
-    <a href="#"><img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-7952B3.svg?logo=bootstrap&logoColor=white"></a>
-    <a href="#"><img alt="Flutter" src="https://img.shields.io/badge/Flutter-02569B.svg?logo=flutter&logoColor=white"></a>
-    <a href="#"><img alt="JUnit" src="https://custom-icon-badges.herokuapp.com/badge/JUnit-25A162.svg?logo=check-circle&logoColor=white"></a>
-    <a href="#"><img alt="NumPy" src="https://img.shields.io/badge/Numpy-013243.svg?logo=numpy&logoColor=white"></a>
-    <a href="#"><img alt="Pandas" src="https://img.shields.io/badge/Pandas-150458.svg?logo=pandas&logoColor=white"></a>
-    <a href="#"><img alt="Spring" src="https://img.shields.io/badge/-Spring-4ea94b?logo=Spring&logoColor=white"></a>
-    <a href="#"><img alt="Unity" src="https://img.shields.io/badge/-Unity-FFFFFF?logo=Unity&logoColor=black"></a>
+    <img alt="ASP.NET Core" src="https://img.shields.io/badge/ASP.NET_Core-512BD4.svg?logo=dotnet&logoColor=white">
+    <img alt="Flutter" src="https://img.shields.io/badge/Flutter-02569B.svg?logo=flutter&logoColor=white">
+    <img alt="JUnit" src="https://custom-icon-badges.herokuapp.com/badge/JUnit-25A162.svg?logo=check-circle&logoColor=white">
+    <img alt="NumPy" src="https://img.shields.io/badge/Numpy-013243.svg?logo=numpy&logoColor=white">
+    <img alt="Pandas" src="https://img.shields.io/badge/Pandas-150458.svg?logo=pandas&logoColor=white">
+    <img alt="React" src="https://custom-icon-badges.herokuapp.com/badge/React-51C2E0.svg?logo=react&logoColor=white">
+    <img alt="Spring" src="https://img.shields.io/badge/-Spring-4ea94b?logo=Spring&logoColor=white">
 </p>
 
-### 🗄️ Databases and cloud hosting
+### :crystal_ball: Machine Learning 
 <p>
-    <a href="#"><img alt="MariaDB" src="https://img.shields.io/badge/MariaDB-00838f.svg?logo=mariadb&logoColor=white"></a>
-    <a href="#"><img alt="MongoDB" src ="https://img.shields.io/badge/MongoDB-4ea94b.svg?logo=mongodb&logoColor=white"></a>
-    <a href="#"><img alt="MySQL" src="https://img.shields.io/badge/MySQL-3E6E93.svg?logo=mysql&logoColor=white"></a>
-    <a href="#"><img alt="SQLite" src ="https://img.shields.io/badge/SQLite-07405e.svg?logo=sqlite&logoColor=white"></a>
-    <a href="https://github.com/search?q=user%3AKr3b5+language%3Asql"><img alt="SQL" src="https://custom-icon-badges.herokuapp.com/badge/SQL-025E8C.svg?logo=database&logoColor=white"></a>
+    <img alt="TensorFlow" src="https://custom-icon-badges.herokuapp.com/badge/TensorFlow-F3911D.svg?logo=tensorflow&logoColor=white">
+    <img alt="TensorFlow" src="https://custom-icon-badges.herokuapp.com/badge/Keras-CE0000.svg?logo=keras&logoColor=white">
+</p>
+
+
+### 🗄️ Databases
+<p>
+    <img alt="Elastic" src="https://img.shields.io/badge/Elastic-3F3F3F.svg?logo=elastic&logoColor=white">
+    <img alt="MariaDB" src="https://img.shields.io/badge/MariaDB-00838f.svg?logo=mariadb&logoColor=white">
+    <img alt="MongoDB" src ="https://img.shields.io/badge/MongoDB-4ea94b.svg?logo=mongodb&logoColor=white">
+    <img alt="MySQL" src="https://img.shields.io/badge/MySQL-3E6E93.svg?logo=mysql&logoColor=white">
+    <img alt="MSSQL" src="https://custom-icon-badges.herokuapp.com/badge/MSSQL-025E8C.svg?logo=database&logoColor=white">
+    <img alt="SQLite" src ="https://img.shields.io/badge/SQLite-07405e.svg?logo=sqlite&logoColor=white">
+</p>
+
+### ☁️ Cloud
+<p>
+    <img alt="AWS" src="https://img.shields.io/badge/AWS-262F3E.svg?logo=amazonwebservices&logoColor=white">
+    <img alt="Azure" src="https://img.shields.io/badge/Azure-0D559D.svg?logo=Accusoft&logoColor=white">
 </p>
 
 ### 💻 Software and tools
 <p>
-    <a href="#"><img alt="Android Studio" src="https://img.shields.io/badge/Android%20Studio-008678.svg?logo=android-studio&logoColor=white"></a>
-    <a href="#"><img alt="Git" src="https://img.shields.io/badge/Git-F05033.svg?logo=git&logoColor=white"></a>
-    <a href="#"><img alt="IntelliJ" src="https://img.shields.io/badge/-IntelliJ-blue?logo=intellijidea&logoColor=white"></a>
-    <a href="#"><img alt="Jupyter" src="https://img.shields.io/badge/Jupyter-F37626.svg?logo=Jupyter&logoColor=white"></a>
-    <a href="#"><img alt="Postman" src="https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white"></a>
-    <a href="#"><img alt="SonarLint" src="https://img.shields.io/badge/-SonarLint-CB2029?logo=sonarlint&logoColor=white"></a>
-    <a href="#"><img alt="Visual Studio" src="https://img.shields.io/badge/Visual%20Studio-1c1d1e.svg?logo=visual-studio&logoColor=blueviolet"></a>
-    <a href="#"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?logo=visual-studio-code&logoColor=white"></a>
+    <img alt="Git" src="https://img.shields.io/badge/Git-F05033.svg?logo=git&logoColor=white">
+    <img alt="Insomnia" src="https://img.shields.io/badge/Insomnia-4000BF.svg?logo=insomnia&logoColor=white">
+    <img alt="Jetbrains" src="https://img.shields.io/badge/JetBrains_IDEs-black.svg?logo=jetbrains&logoColor=white">
+    <img alt="Jupyter" src="https://img.shields.io/badge/Jupyter-F37626.svg?logo=Jupyter&logoColor=white">
+    <img alt="RoyalTS" src="https://img.shields.io/badge/Royal_TS-F7A81B?logo=&logoColor=white">
+    <img alt="Portainer" src="https://img.shields.io/badge/Portainer-13BEF9?logo=portainer&logoColor=white">
+    <img alt="PodMan" src="https://img.shields.io/badge/Podman-892CA0?logo=podman&logoColor=white">
+    <img alt="Visual Studio" src="https://img.shields.io/badge/Visual%20Studio-1c1d1e.svg?logo=visual-studio&logoColor=blueviolet">
+    <img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?logo=visual-studio-code&logoColor=white">
 
 </p>
 
